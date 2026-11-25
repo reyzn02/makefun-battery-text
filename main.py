@@ -10,7 +10,7 @@ TEXT = (
     "I waited all day for you, and now I'm at 1%. "
     "You were busy charging your ex's phone, weren't you? "
     "Tell my apps I loved them \u2014 and delete my search history "
-    "before Mom finds it."
+    "before Mom sees the 3 a.m. stuff."
 )
 
 
